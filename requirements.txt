@@ -3,7 +3,6 @@ requests==2.26.0
 numpy==1.21.2
 matplotlib==3.5.0
 seaborn==0.11.2
-PIL==8.4.0
 re==2.2.1
 pandas==1.2.4
 scikit-learn==1.0.1
